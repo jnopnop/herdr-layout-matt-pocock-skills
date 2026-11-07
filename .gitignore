@@ -3,3 +3,4 @@ gpui-kit.d.ts
 jsconfig.json
 .DS_Store
 *.sync-tmp
+.idea/
